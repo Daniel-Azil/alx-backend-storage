@@ -1,0 +1,4 @@
+// A command that updates all the document with the title "name" and it's given value
+db.school.update({ name : "Holberton school" },
+		{ '$set' : { "address" : "927 Mission street" }},
+		{ multi : true})

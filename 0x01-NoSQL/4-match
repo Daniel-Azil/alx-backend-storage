@@ -1,0 +1,2 @@
+// A command that lists all document with the name "Holberton School"
+db.school.find({ name : "Holberton school" })

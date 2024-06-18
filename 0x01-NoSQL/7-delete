@@ -1,0 +1,2 @@
+//A command that deletes document with the name and value below
+db.school.deleteMany({ name : "Holberton school" })

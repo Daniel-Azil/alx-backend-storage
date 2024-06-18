@@ -1,0 +1,2 @@
+// Mongodb server command that creates or uses database named my_db
+use my_db

@@ -1,0 +1,2 @@
+// A commoand that counts all the given document in the collection titled school
+db.school.count()
